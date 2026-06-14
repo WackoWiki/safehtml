@@ -21,6 +21,15 @@ composer.lock
 *.sublime-project
 *.sublime-workspace
 
+# Eclipse IDE
+.buildpath
+.project
+.settings/
+
+# PHPStorm IDE
+.idea
+*.iml
+
 # OS files
 .DS_Store
 Thumbs.db
